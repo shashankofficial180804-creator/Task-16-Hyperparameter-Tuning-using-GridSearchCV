@@ -1,8 +1,8 @@
 # Task-16-Hyperparameter-Tuning-using-GridSearchCV
 Hyperparameter tuning project using GridSearchCV on the Breast Cancer dataset. Includes preprocessing, model training, parameter optimization, performance comparison, and detailed evaluation to demonstrate model optimization techniques using Scikit-learn.
-# This project demonstrates how hyperparameter tuning improves machine learning model performance using GridSearchCV. The Breast Cancer Dataset from sklearn is used as the primary dataset.
+This project demonstrates how hyperparameter tuning improves machine learning model performance using GridSearchCV. The Breast Cancer Dataset from sklearn is used as the primary dataset.
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 Python
 
@@ -14,7 +14,7 @@ NumPy
 
 Jupyter Notebook / Google Colab
 
-📂 Dataset
+# 📂 Dataset
 
 Primary Dataset: Breast Cancer Wisconsin Dataset
 
@@ -22,7 +22,7 @@ Source: sklearn.datasets.load_breast_cancer
 
 Type: Binary Classification (Malignant / Benign)
 
-📌 Project Workflow
+# 📌 Project Workflow
 
 Load and preprocess dataset
 
@@ -40,12 +40,12 @@ Train tuned model
 
 Compare default vs tuned model performance
 
-📊 Deliverables
+# 📊 Deliverables
 
 ✔ Notebook with GridSearchCV
 ✔ Best parameters output
 ✔ Model performance comparison table
 
-🎯 Final Outcome
+# 🎯 Final Outcome
 
 This task helps understand model optimization, cross-validation, and how tuning hyperparameters improves predictive performance without overfitting.
