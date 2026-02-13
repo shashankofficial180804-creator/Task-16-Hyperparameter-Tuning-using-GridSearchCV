@@ -5,7 +5,7 @@ Hyperparameter tuning project using GridSearchCV on the Breast Cancer dataset. I
 
 This project demonstrates how hyperparameter tuning improves machine learning model performance using GridSearchCV. The Breast Cancer Dataset from sklearn is used as the primary dataset.
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 Python
 
